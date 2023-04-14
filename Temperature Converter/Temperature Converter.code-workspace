@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\Coding\\bootstrap-3.3.7-dist\\css"
+		},
+		{
+			"path": "..\\..\\Coding\\bootstrap-3.3.7-dist\\fonts"
+		},
+		{
+			"path": "..\\..\\Coding\\bootstrap-3.3.7-dist\\js"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Temperature Converter"
+	}
+}

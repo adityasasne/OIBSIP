@@ -1,0 +1,27 @@
+#result29{
+    background-color:deepskyblue;
+}
+#resultValueSection{
+    color: white;
+}
+#convertedDegree{
+    font-size: 25px;
+}
+.oneline1{
+    display: inline;
+}
+#bt1{
+    background-color: blue;
+}
+.card-title{
+    color: green;
+    margin-bottom: 25px;
+}
+.py-sm-2{
+    color: green;
+}
+.card-group{
+    border: 2px solid green;
+    border-radius: 8px;
+    padding: 5px;
+}
